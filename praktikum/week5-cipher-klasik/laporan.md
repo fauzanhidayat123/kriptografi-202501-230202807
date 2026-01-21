@@ -4,8 +4,8 @@
 | :--- | :--- |
 | **Minggu ke-** | 5 |
 | **Topik** | Cipher Klasik (Caesar, Vigenère, Transposisi) |
-| **Nama** | Mochamad Ilham Hansyil Alfauzi |
-| **NIM** | 2320202767 |
+| **Nama** | Fauzan Hidayat |
+| **NIM** | 2320202807 |
 | **Kelas** | 5IKRB |
 
 ---
@@ -171,7 +171,7 @@ if __name__ == "__main__":
 ### Hasil Eksekusi Program
 Berikut adalah tangkapan layar (*screenshot*) dari terminal setelah program dijalankan, menampilkan proses enkripsi dan dekripsi untuk ketiga algoritma secara berurutan.
 
-![Hasil Eksekusi Program](screenshots/cipher_classic.png)
+![Hasil Eksekusi Program](screenshots/cipher_classc.png)
 *(Catatan: Pastikan file `output.png` hasil screenshot terminal kamu sudah tersimpan di folder `screenshots/`)*
 
 ### Pembahasan Analisis
