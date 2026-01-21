@@ -4,8 +4,8 @@
 | :--- | :--- |
 | **Minggu ke-** | 5 |
 | **Topik** | Cipher Klasik (Caesar, Vigenère, Transposisi) |
-| **Nama** | Mochamad Ilham Hansyil Alfauzi |
-| **NIM** | 2320202767 |
+| **Nama** | Fauzan Hiidayat |
+| **NIM** | 2320202807 |
 | **Kelas** | 5IKRB |
 
 ---
