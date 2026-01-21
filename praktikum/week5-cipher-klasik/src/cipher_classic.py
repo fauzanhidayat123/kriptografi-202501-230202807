@@ -128,13 +128,13 @@ def transpose_decrypt(ciphertext, key):
 def main():
     print("="*50)
     print("      IMPLEMENTASI CIPHER KLASIK (WEEK 5)")
-    print("      Nama : Mochamad Ilham Hansyil Alfauzi")
-    print("      NIM  : 2320202767")
+    print("      Nama : Fauzan Hidayat")
+    print("      NIM  : 2320202807")
     print("="*50 + "\n")
 
     # --- UJI COBA 1: CAESAR ---
     print("[1] CAESAR CIPHER")
-    text_caesar = "ILHAM STUDENT"
+    text_caesar = "FAUZAN STUDENT"
     key_caesar = 5
     
     enc_caesar = caesar_encrypt(text_caesar, key_caesar)
@@ -149,7 +149,7 @@ def main():
     # --- UJI COBA 2: VIGENERE ---
     print("[2] VIGENERE CIPHER")
     text_vig = "TEKNIK INFORMATIKA"
-    key_vig = "ILHAM"
+    key_vig = "FAUZAN"
     
     enc_vig = vigenere_encrypt(text_vig, key_vig)
     dec_vig = vigenere_decrypt(enc_vig, key_vig)
